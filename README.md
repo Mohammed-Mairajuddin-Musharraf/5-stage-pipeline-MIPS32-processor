@@ -1,1 +1,1 @@
-# 6-stage-pipeline-RISC-processor
+# 5-stage-pipeline-RISC-processor
